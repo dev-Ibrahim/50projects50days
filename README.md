@@ -20,3 +20,5 @@
       Hidden Search Widget
 - ### Day 5
       Blurry Loading
+- ### Day 6
+      Scroll Animation
