@@ -22,3 +22,5 @@
       Blurry Loading
 - ### Day 6
       Scroll Animation
+- ### Day 7
+      Split landing page
